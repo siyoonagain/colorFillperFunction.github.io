@@ -35,4 +35,4 @@ color 변수에는 #를 저장해두고 += 연산자를 사용하여 for문이 6
 
 버튼 위의 글자도 같이 바뀌도록 textContent를 사용하였다.
 
-[color flipper]()에 들어가 볼 수 있다.
+[color flipper](https://siyoonagain.github.io/colorFillperFunction.github.io/)에 들어가 볼 수 있다.
